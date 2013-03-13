@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>evil9boy's blog</title>
+        <description>evil9boy's blog - evil9boy</description>
+        <link>http://evil9boy.github.com</link>
+        <link>http://evil9boy.github.com</link>
+        <lastBuildDate>2013-03-13T15:54:17+00:00</lastBuildDate>
+        <pubDate>2013-03-13T15:54:17+00:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>test</title>
+                <description></description>
+                <link>http://evil9boy.github.com/2013/03/13/test</link>
+                <guid>http://evil9boy.github.com/2013/03/13/test</guid>
+                <pubDate>2013-03-13T00:00:00+00:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

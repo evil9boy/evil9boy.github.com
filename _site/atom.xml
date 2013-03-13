@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>evil9boy's blog</title>
+ <link href="http://evil9boy.github.com/" rel="self"/>
+ <link href="http://evil9boy.github.com"/>
+ <updated>2013-03-13T15:54:17+00:00</updated>
+ <id>http://evil9boy.github.com</id>
+ <author>
+   <name>evil9boy</name>
+   <email>evil9boy@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>test</title>
+   <link href="http://evil9boy.github.com/2013/03/13/test"/>
+   <updated>2013-03-13T00:00:00+00:00</updated>
+   <id>http://evil9boy.github.com/2013/03/13/test</id>
+   <content type="html"></content>
+ </entry>
+ 
+ 
+</feed>
